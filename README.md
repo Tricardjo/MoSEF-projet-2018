@@ -1,6 +1,7 @@
 # MoSEF-projet-2018
 
 1- Dans un premier temps, j'ai cliqué sur FORK avec mon compte sur ton profil (ambalde).
+
 2- Puis j'ai récupéré l'adresse https://github.com/Tricardjo/MoSEF-projet-2018.git pour cloner le projet.
 
 git clone https://github.com/Tricardjo/MoSEF-projet-2018.git
